@@ -1,0 +1,89 @@
+/* The @import CSS at-rule is used to 
+import style rules from other stylesheets. */
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+* {
+    /* The width and height properties include the content,
+     padding, and border, but do not include the margin. Note 
+     that padding and border will be inside of the box. For */
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Muli', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    width: 90vw;
+}
+
+.panel {
+    /* Scales the image (while preserving its ratio) to the 
+    smallest possible size to fill the container (that is: both 
+    its height and width completely cover the container), 
+    leaving no empty space. If the proportions of the 
+    background differ from the element, the image is cropped 
+    either vertically or horizontally. */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    border-radius: 50px;
+    color: #fff;
+
+    /* The cursor CSS property sets the mouse cursor, if any, 
+    to show when the mouse pointer is over an element. */
+    cursor: pointer;
+
+    /* The flex CSS shorthand property sets how a flex item 
+    will grow or shrink to fit the space available in its flex 
+    container. */
+    flex: 0.5;
+    margin: 10px;
+    position: relative;
+    -webkit-transition: all 700ms ease-in;
+}
+
+.panel h3 {
+    font-size: 24px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    margin: 0;
+    opacity: 0;
+}
+
+.panel.active{
+    flex: 5;
+}
+
+.panel.active h3{
+    opacity: 1;
+
+    /* Transitions enable you to define the transition between
+     two states of an element. */
+    transition:  opacity 0.3s ease-in;
+}
+
+/* The @media CSS at-rule can be used to apply part of a style
+ sheet based on the result of one or more media queries. With 
+ it, you specify a media query and a block of CSS to apply to 
+ the document if and only if the media query matches the device
+  on which the content is being used. */
+@media (max-width: 480px){
+    .container {
+        width: 100vw;
+    }
+
+    .panel:nth-of-type(4)
+    .panel:nth-of-type(5){
+        display: none;
+    }
+}
