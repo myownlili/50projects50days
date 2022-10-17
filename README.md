@@ -7,3 +7,7 @@
 
 ## Day2 progress steps
 ![image](https://user-images.githubusercontent.com/57955384/196117621-eff2bf25-99f6-4b3c-98f1-55218d89d4a2.png)
+
+
+## Day3 rotating navigation animation
+![image](https://user-images.githubusercontent.com/57955384/196142588-6c915839-c884-46d8-86f1-4226cf1a1ea5.png)
