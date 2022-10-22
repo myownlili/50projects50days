@@ -19,3 +19,6 @@
 ## Day5 blurring loading
 ![image](https://user-images.githubusercontent.com/57955384/196582429-db037edb-06b6-47b4-998e-11524d1a4303.png)
 
+## DAY8 split landing Page
+![image](https://user-images.githubusercontent.com/57955384/197339145-c8eec570-c781-4302-ab23-9a040acb5c60.png)
+
