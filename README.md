@@ -34,6 +34,10 @@
 ## Day11 event keycodes
 ![image](https://user-images.githubusercontent.com/57955384/197789245-ae4dbca3-a460-4b20-a644-bbd0ce500857.png)
 
+## Day12 faq collapse
+![image](https://user-images.githubusercontent.com/57955384/198836222-40e99436-b577-4ac7-b832-6f11141b00cc.png)
+
+
 
 
 
