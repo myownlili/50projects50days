@@ -37,6 +37,8 @@
 ## Day12 faq collapse
 ![image](https://user-images.githubusercontent.com/57955384/198836222-40e99436-b577-4ac7-b832-6f11141b00cc.png)
 
+## Day13 Random choice picker
+![image](https://user-images.githubusercontent.com/57955384/198880672-30a598a4-6ece-4e56-9cdc-84b681788cef.png)
 
 
 
