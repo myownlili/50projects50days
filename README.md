@@ -40,7 +40,8 @@
 ## Day13 Random choice picker
 ![image](https://user-images.githubusercontent.com/57955384/198880672-30a598a4-6ece-4e56-9cdc-84b681788cef.png)
 
-
+## Day14 animated navigation
+![image](https://user-images.githubusercontent.com/57955384/199015689-534434f2-343d-4ba6-a3f0-8bf318c7a7df.png)
 
 
 
