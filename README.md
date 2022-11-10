@@ -46,6 +46,9 @@
 ## Day15 increment counter
 ![image](https://user-images.githubusercontent.com/57955384/199240364-2397a880-79c2-419a-8832-69501cc9acad.png)
 
+## Day16 drink water
+![image](https://user-images.githubusercontent.com/57955384/201097333-df387e6a-b845-4c22-9649-dffca8437b58.png)
+
 
 
 
